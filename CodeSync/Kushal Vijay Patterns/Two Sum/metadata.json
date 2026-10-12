@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-10-12T22:03:43.287Z",
+  "submissionTimestamp": "2026-10-12T22:04:42.137Z",
   "runtime": "0 ms",
-  "memoryUsage": "N/A",
+  "memoryUsage": "47.34 MB",
   "difficulty": "Easy",
   "tags": [
     "Array",
@@ -10,6 +10,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Two Sum",
-  "problemUrl": "https://leetcode.com/problems/two-sum/",
+  "problemUrl": "https://leetcode.com/problems/two-sum/submissions/2170632811/",
   "submissionId": "4xmddm"
 }
